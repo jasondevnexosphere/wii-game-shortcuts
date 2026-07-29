@@ -3,3 +3,4 @@ Notice: THESE ARE > NOT < THE ACTUAL GAMES! EVEN IF YOU COULD HAVE A ACTUAL WII 
 IT WOULD BE SLOW AS HECK, AND YOU WOULD ONLY HAVE 1 GAME.
 
 Wii Game Shortcuts is a collection of wii game shortcuts for USB Loader (USB Drive + SD), And Wii Flow.
+This is mainly for people who dont have a Windows computer, and cant run WiiGSC.
